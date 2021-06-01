@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sarozbhandari
+- 👋 Hi, I’m Saroj Bhandari
 - 👀 I’m interested in Python Django related projects
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Django projects
+- 🌱 I’m currently working as Python Django Developer
+- 💞️ I’m looking to collaborate on projects
 - 📫 Interested can reach me via email iamsarozbhandari@gmail.com
 
 <!---
