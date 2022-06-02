@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saroj Bhandari
-- 👀 I’m interested in Python Django related projects
-- 🌱 I’m currently working as Python Django Developer
+- 👀 I’m interested in Web 3.0 related projects
+- 🌱 I’m currently working as Solidity Developer
 - 💞️ I’m looking to collaborate on projects
 - 📫 Interested can reach me via email iamsarozbhandari@gmail.com
 
