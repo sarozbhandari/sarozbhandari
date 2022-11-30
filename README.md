@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Saroj Bhandari
 - 👀 I’m interested in Web 3.0 related projects
-- 🌱 I’m currently working as Solidity Developer
+- 🌱 I’m currently working as Blockchain Developer
 - 💞️ I’m looking to collaborate on projects
-- 📫 Interested can reach me via email iamsarozbhandari@gmail.com
+- 📫 Interested can reach me via email sharozbhandari@gmail.com
 
 <!---
 sarozbhandari/sarozbhandari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
